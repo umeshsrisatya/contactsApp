@@ -1,18 +1,7 @@
 # Project Name
 
 **Description:**  
-A brief description of your project. Explain what it does and why it's useful. If your project is deployed, include a link to the live application.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Technologies](#technologies)
-- [Folder Structure](#folder-structure)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+The **Contacts App** is a MERN stack application for managing personal or business contacts. It allows users to add, edit, delete, and search through their contact lists, with all data securely stored in MongoDB. The app features a user-friendly interface built with React, and Node.js with Express.js handles the backend API. User authentication ensures data privacy, and the app is fully responsive for use on any device.
 
 ## Installation
 
